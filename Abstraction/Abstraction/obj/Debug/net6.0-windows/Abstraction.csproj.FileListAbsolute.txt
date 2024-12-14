@@ -1,0 +1,16 @@
+C:\CPSC501\Abstraction\Abstraction\bin\Debug\net6.0-windows\Abstraction.exe
+C:\CPSC501\Abstraction\Abstraction\bin\Debug\net6.0-windows\Abstraction.deps.json
+C:\CPSC501\Abstraction\Abstraction\bin\Debug\net6.0-windows\Abstraction.runtimeconfig.json
+C:\CPSC501\Abstraction\Abstraction\bin\Debug\net6.0-windows\Abstraction.dll
+C:\CPSC501\Abstraction\Abstraction\bin\Debug\net6.0-windows\Abstraction.pdb
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\Abstraction.Form1.resources
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\Abstraction.csproj.GenerateResource.cache
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\Abstraction.AssemblyInfoInputs.cache
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\Abstraction.AssemblyInfo.cs
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\Abstraction.csproj.CoreCompileInputs.cache
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\Abstraction.dll
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\refint\Abstraction.dll
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\Abstraction.pdb
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\Abstraction.genruntimeconfig.cache
+C:\CPSC501\Abstraction\Abstraction\obj\Debug\net6.0-windows\ref\Abstraction.dll
